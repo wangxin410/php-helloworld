@@ -1,3 +1,3 @@
 <?php
-print "test\n";
+print "exam280\n";
 ?>
